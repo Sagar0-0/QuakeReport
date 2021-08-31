@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sagar/AndroidStudioProjects/QuakeReport/app/src/main/res/drawable/magnitude_circle.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/sagar/AndroidStudioProjects/QuakeReport/app/src/main/res/layout/earthquake_activity.xml" value="0.1" />
+        <entry key="..\:/Users/sagar/AndroidStudioProjects/QuakeReport/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/Users/sagar/AndroidStudioProjects/QuakeReport/app/src/main/res/layout/settings_activity.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/sagar/AndroidStudioProjects/QuakeReport/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/sagar/AndroidStudioProjects/QuakeReport/app/src/main/res/xml/settings_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
